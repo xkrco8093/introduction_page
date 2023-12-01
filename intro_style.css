@@ -1,0 +1,32 @@
+h1 {
+    background-color: #ded0d0;
+    text-align: center;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.content {
+    width: 500px;
+    margin: 50px auto;
+    position: static;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.item {
+    width: 100px;
+    align-self: auto;
+    text-align: center;
+    font-weight: 600;
+}
+
+#major:focus {
+    color: #ae7fd4;
+}
