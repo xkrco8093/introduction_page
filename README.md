@@ -1,1 +1,1 @@
-# weeks52 : git & github
+# weeks52 : self introduction page
